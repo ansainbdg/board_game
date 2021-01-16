@@ -4,7 +4,7 @@ import re
 import pandas as pd
 import time
 ans = []
-for i in range(1, 11300):  # 取得したいゾーン。1000ごとに40分くらいかかる
+for i in range(1000, 1002):  # 取得したいゾーン。1000ごとに40分くらいかかる
     if i % 20 == 0:
         print(i)
     time.sleep(1)
