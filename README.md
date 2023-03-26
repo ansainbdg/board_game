@@ -6,7 +6,7 @@ pythonの実行環境が必要です。また、python-docxとnumpyのライブ�
 
 python numberplacehaggle.py {好きな番号}で実行すると、
 
-ヒント用紙が印刷用のhint_part{番号}.docxと
+ヒント用紙印刷用のhint_part{番号}.docxと
 
 答え印刷用のanswer_part{番号}.html
 
