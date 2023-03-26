@@ -1,0 +1,36 @@
+body {
+  color: #0000ff;
+}
+
+.main-body {
+  size: A4;
+}
+.container {
+  size: A4;
+}
+
+/* ##################### sudoku #################### */
+/* answer */
+.answer {
+  margin-left: 60px;
+}
+.answer .row {
+  display: flex;
+  flex-direction: row;
+}
+.answer .flex-table {
+  width: 66px;
+  height: 66px;
+  border-collapse: collapse;
+  padding: 0;
+  margin: 0;
+  border: solid 2px #0000ff;
+}
+.answer .flex-table th {
+  text-align: center;
+  padding: 3px;
+  margin: 0;
+  font-size: 10px;
+  background-color: #ffffff;
+  border: solid 1px #0000ff;
+}
