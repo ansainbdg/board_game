@@ -1,5 +1,5 @@
 # ナンプレハグル
-使い方 
+## 使い方 
 pythonの実行環境が必要です。また、python-docxとnumpyのライブラリが必要なので、無い場合はpip install python-docxやpip　install numpy等しましょう
 
 ターミナル上でnumberplacehaggle.pyと同じディレクトリに移動して、
