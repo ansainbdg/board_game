@@ -1,4 +1,5 @@
 # ナンプレハグル
+ピンゾロハグル会で行われたナンプレハグルを主催するための用紙一式を印刷するツールです。
 ## 使い方 
 pythonの実行環境が必要です。また、python-docxとnumpyのライブラリが必要なので、無い場合はpip install python-docxやpip　install numpy等しましょう
 
